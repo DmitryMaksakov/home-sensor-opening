@@ -1,4 +1,4 @@
 # home-sensor-opening
-Arduino sketch for PIR sensor.
+Arduino sketch for Opening sensor.
 
-This system unit is designed to read PIR sensor state and send it using radio channel.
+This system unit is designed to read Opening door/window sensor state and send it using radio channel.
